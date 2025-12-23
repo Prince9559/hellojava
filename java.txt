@@ -1,0 +1,89 @@
+
+  1 convert to properties 
+  2 convert to instaion
+  3 check fo plaindroam 
+  4 Convert the 
+
+
+
+Classes and object 
+prosijatar a language and object orientend language.
+prosijar the language started with assembly language.
+prosijal language started with assembily language.
+prosijal language use function.
+object oreitened programming start with pascal the first successful object oreited c++
+
+InterPritterAndComplier
+
+complier covert the full code into the runval program interpritter coverts and runs.
+Steps in the compliestion
+1.first step is to verify the code lax 
+Token
+parsing is the prossing binaries code token            smallest mini of the part
+token keywords
+keywords and token the fix meaning and indentityfier name 
+karnel  
+Layers of virtucal machine
+oop termilogy
+class
+object oritend programming system
+a class is the design for blue print offen object
+it constains a list of object of functlity.
+
+Encapsulation
+Encapsulation is the prosser ho binary is multiple object are pritter into a new object keeping capsulation 
+
+class a design using DFD (data for Dygram)
+O lavel DFD   types of user and the software
+first lavel DFD  every step will requires some input and given output 
+interface is process which provides input output bwtween two other process 
+if the interface is not change use can change then complitily
+
+Absetion 
+
+Inheritance 
+Inheritance  is intensic the working   software why menting backout campitable 
+
+
+backout campitablity can make program use    let are not avalible now can be only be main fecture 
+
+Static inheritance 
+
+Bank Account Class name,acc_no,balance,rateofiheritence
+
+Static object are handle ware class name 
+
+
+Moduls
+
+Moduls of the part of   that can be resperably and the complie sepetraly into the 
+
+Access modifier
+
+1. Private components are only accessibly in the object after canect class 
+2.Pakage default access modifier is pakage         pakage scop    to everyone in the same times thinks the public avalible 
+
+Protect objects are available in the current class and all in hesitancies class 
+
+java provides some magic methods which are directly used. The toString method is called  when ever an object of the class is converted to String.
+
+This happens whenever the Object is converted to a String.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
